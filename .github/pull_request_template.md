@@ -1,6 +1,5 @@
 ## Описание изменений
 
-
 Link to review app: http://app-{{prNumber}}.example.com
 
 Опишите ваши изменения здесь (ссылка на фид, ссылка на тестовый сайты).
@@ -23,5 +22,3 @@ Link to review app: http://app-{{prNumber}}.example.com
 ## Замечания для ревью
 
 Есть ли что-то, на что нужно обратить внимание при ревью?
-
-[тестовый сайт](https://ms.fandeco.ru/rest/github/redirect)
