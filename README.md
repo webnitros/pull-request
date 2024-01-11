@@ -1,3 +1,1 @@
 Автоматизация pull request
-
-@username!
