@@ -1,6 +1,6 @@
 ## Описание изменений
 
-Link to review app: http://app-{{prNumber}}.example.com
+1Link to review app: http://app-{{prNumber}}.example.com
 
 Опишите ваши изменения здесь (ссылка на фид, ссылка на тестовый сайты).
 
